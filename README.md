@@ -29,7 +29,8 @@ I am excited about internship opportunities and challenges where I can grow as a
 
 ---
 
-### 💻 Coding Profiles
+### 💻 Another Profiles
+- **Linkedin:** https://www.linkedin.com/in/hoang-chuong-nguyen-4343b4382
 - **LeetCode:** https://leetcode.com/u/nh_chuongw-111  
 - **Codeforces:** https://codeforces.com/profile/nh_chuongw.111
 
