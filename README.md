@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Hoang Chuong 👋
 
-<!--
-**ChuongNguyenCM/ChuongNguyenCM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science student and an aspiring back-end / full-stack software engineer.  
+I have been self-studying and practicing programming for over 3 years, with a strong interest in understanding how systems, machines, and AI work at a deep level.
 
-Here are some ideas to get you started:
+I am passionate about building reliable software and continuously improving my problem-solving skills, with the long-term goal of contributing to meaningful technological development.  
+I am excited about internship opportunities and challenges where I can grow as a software engineer and deepen my knowledge of computer science and AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Coding Profiles
+- **LeetCode:** https://leetcode.com/u/nh_chuongw-111  
+- **Codeforces:** https://codeforces.com/profile/nh_chuongw.111
+
+---
+
+### 🔍 Interests
+- Back-end systems & software architecture  
+- Algorithms and data structures  
+- Artificial Intelligence
+
+[![Hoang Chuong Nguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChuongNguyenCM)](https://github.com/anuraghazra/github-readme-stats)
