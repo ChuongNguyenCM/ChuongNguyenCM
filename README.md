@@ -19,4 +19,4 @@ I am excited about internship opportunities and challenges where I can grow as a
 - Algorithms and data structures  
 - Artificial Intelligence
 
-[![Hoang Chuong Nguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChuongNguyenCM)](https://github.com/anuraghazra/github-readme-stats)
+![Hoang Chuong Nguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChuongNguyenCM&show_icons=true&theme=github_dark)
